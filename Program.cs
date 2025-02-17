@@ -28,7 +28,6 @@ namespace ConfigProtector
 
             try
             {
-                // Map the configuration file.
                 ExeConfigurationFileMap fileMap = new ExeConfigurationFileMap
                 {
                     ExeConfigFilename = configFile
