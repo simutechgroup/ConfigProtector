@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigProtector", "ConfigProtector.csproj", "{D17E8417-51B9-419B-8513-49B648A5ACBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17E8417-51B9-419B-8513-49B648A5ACBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17E8417-51B9-419B-8513-49B648A5ACBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17E8417-51B9-419B-8513-49B648A5ACBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17E8417-51B9-419B-8513-49B648A5ACBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A45CF753-06F5-4CA8-AE85-78BD5D5962CA}
+	EndGlobalSection
+EndGlobal
